@@ -58,4 +58,4 @@ The following samples were generated with a fixed style and varying bias.  Each 
 This project was intended to serve as a reference implementation for a research paper, but since the results are of decent quality, it may be worthwile to make the project more broadly usable.  I plan to continue focusing on the machine learning side of things.  That said, I'd welcome contributors who can:
 
   - Package this, and otherwise make it look more like a usable software project and less like research code.
-  - Add support for more sophisticated drawing, animations, or anything else in this direction.  Currently, the project only creates some simple svg files.
+  - Add support for more sophisticated drawing, animations, or anything else in
